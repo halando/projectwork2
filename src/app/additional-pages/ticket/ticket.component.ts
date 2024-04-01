@@ -13,7 +13,7 @@ const ELEMENT_DATA: Element[] = [
   {position: 1, name: 'Felnőtt', discount: 'Nincs', price: 3600 },
   {position: 2, name: 'Diák', discount: 'Van', price: 2400},
   {position: 3, name: 'Nyugdíjas', discount: 'Van', price: 2400},
-  {position: 4, name: 'gyerek', discount: 'Ingyenes', price: 0},
+  {position: 4, name: 'Gyerek,', discount: 'Ingyenes', price: 0},
   
 ];
 

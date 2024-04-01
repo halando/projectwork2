@@ -236,11 +236,13 @@
     ],
     "buttonText7": "More stores",
     "title10": "Information about day tickets",
-    "columns": [
-      { "header": "No.", "field": "position" },
-      { "header": "Name", "field": "name" },
-      { "header": "Discount", "field": "discount" },
-      { "header": "Price", "field": "price" }
-    ],
+    
+       "header": "No.", "field": "position" ,
+       "header2": "Name", "field2": "name" ,
+       "header3": "Discount", "field3": "discount" ,
+       "header4": "Price", "field4": "price" ,
+
+      
+    
     "buttonText8": "More tickets"
 }

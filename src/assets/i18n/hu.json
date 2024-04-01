@@ -236,12 +236,14 @@
     ],
     "buttonText7": "További üzletek",
     "title10": "Tudnivalók a napijegyekről",
-    "columns": [
-      { "header": "No.", "field": "position" },
-      { "header": "Name", "field": "name" },
-      { "header": "Kedvezmény", "field": "discount" },
-      { "header": "Ár", "field": "price" }
-    ],
+    
+       "header": "No.", "field1": "position" ,
+      "header2": "Név", "field2": "name" ,
+      "header3": "Kedvezmény", "field3": "discount" ,
+      "header4": "Ár", "field4": "price" ,
+
+       
+    
     "buttonText8": "További jegyek"
 }
 

@@ -234,11 +234,13 @@
     ],
     "buttonText7": "Weitere Geschäfte",
     "title10": "Informationen zu Tageskarten",
-    "columns": [
-      { "header": "No.", "field": "position" },
-      { "header": "Name", "field": "name" },
-      { "header": "Rabatt", "field": "discount" },
-      { "header": "Preis", "field": "price" }
-    ],
+    
+      "header": "No.", "field": "position" ,
+       "header2": "Name", "field2": "name" ,
+       "header3": "Rabatt", "field3": "discount" ,
+       "header4": "Preis", "field4": "price" 
+    ,
+    
+
     "buttonText8": "Weitere Tickets"
 }

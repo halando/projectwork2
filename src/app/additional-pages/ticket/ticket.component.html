@@ -21,7 +21,7 @@
           <p class="card-text">{{'text2' |translate}}
           </p>
           <button id="button2" class="btn btn-primary" type="button" data-bs-toggle="offcanvas"
-            data-bs-target="#offcanvasWithBackdrop" aria-controls="offcanvasWithBackdrop">{{'butonText2' |translate}}</button>
+            data-bs-target="#offcanvasWithBackdrop" aria-controls="offcanvasWithBackdrop">{{'buttonText2' |translate}}</button>
         </div>
       </div>
     </div>
@@ -126,19 +126,19 @@
 
 
         <ng-container matColumnDef="demo-name">
-          <th mat-header-cell *matHeaderCellDef> Name </th>
+          <th mat-header-cell *matHeaderCellDef> {{'header2'|translate}} </th>
           <td mat-cell *matCellDef="let element"> {{element.name}} </td>
         </ng-container>
 
 
         <ng-container matColumnDef="demo-discount">
-          <th mat-header-cell *matHeaderCellDef> Kedvezmény </th>
+          <th mat-header-cell *matHeaderCellDef> {{'header3'|translate}} </th>
           <td mat-cell *matCellDef="let element"> {{element.discount}} </td>
         </ng-container>
 
 
         <ng-container matColumnDef="demo-price">
-          <th mat-header-cell *matHeaderCellDef> Ár </th>
+          <th mat-header-cell *matHeaderCellDef>{{'header4'|translate}} </th>
           <td mat-cell *matCellDef="let element"> {{element.price}} </td>
         </ng-container>
 
