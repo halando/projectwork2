@@ -21,7 +21,7 @@ ngOnInit(): void {
   this.lang = localStorage.getItem('lang') ||'hu';
 }
 
-  constructor(private auth:AuthService, private router:Router,private translateService:TranslateService){
+  constructor(private auth:AuthService, private router:Router,private translateService:TranslateService,private spinner:NgxSpinnerService){
     this.auth.getCurrentUser().subscribe(
       (user)=>this.currentUser=user
     )
@@ -41,5 +41,10 @@ ngOnInit(): void {
 
     this.translateService.use(selectedLanguage);
   }
- 
+  openSpinner(){
+    this.spinner.show();
+    setTimeout(()=>{
+      this.spinner.hide();
+    }, 60000)
+  }
 }

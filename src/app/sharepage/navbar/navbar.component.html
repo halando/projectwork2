@@ -7,19 +7,19 @@
       <div class="collapse navbar-collapse" id="navbarNavDropdown">
         <ul class="navbar-nav ms-auto">
           <li class="nav-item">
-            <a class="nav-link active" routerLink="" routerLinkActive="active-link" [routerLinkActiveOptions]="{exact:true}">{{'home2'| translate}}</a>
+            <a class="nav-link active" routerLink="" routerLinkActive="active-link" [routerLinkActiveOptions]="{exact:true}" (click)="openSpinner()">{{'home2'| translate}}</a>
           </li>
           <li  *ngIf="currentUser" class="nav-item">
-            <a class="nav-link" routerLink="jegy"  routerLinkActive="active-link">{{'services'|translate}}</a>
+            <a class="nav-link" routerLink="jegy"  routerLinkActive="active-link" (click)="openSpinner()">{{'services'|translate}}</a>
           </li>
           <li *ngIf="currentUser" class="nav-item">
-            <a class="nav-link" routerLink="kornyezetvedelem" routerLinkActive="active-link">{{'enviroment2'|translate}}</a>
+            <a class="nav-link" routerLink="kornyezetvedelem" routerLinkActive="active-link" (click)="openSpinner()">{{'environment2'|translate}}</a>
           </li>
           <li *ngIf="currentUser" class="nav-item">
-            <a class="nav-link" routerLink="kapcsolat" routerLinkActive="active-link">{{'contacts'|translate}}</a>
+            <a class="nav-link" routerLink="kapcsolat" routerLinkActive="active-link" (click)="openSpinner()">{{'contacts'|translate}}</a>
           </li>
           <li  *ngIf="currentUser" class="nav-item">
-            <a class="nav-link" routerLink="profile" routerLinkActive="active-link">{{'profile'|translate}}</a>
+            <a class="nav-link" routerLink="profile" routerLinkActive="active-link" (click)="openSpinner()">{{'profile'|translate}}</a>
           </li>
           <li *ngIf="currentUser?.claims.includes('SAdmin')" class="nav-item">
             <a class="nav-link"routerLink="/user-list">{{'adminUsers'|translate}}</a>
@@ -50,3 +50,11 @@
       </div>
     </div>
   </nav>
+  <ngx-spinner
+  bdColor="rgba(51,51,51,0.8)"
+  size="medium"
+  color="#fff"
+  type="ball-scale-multiple"
+>
+  <p style="font-size: 20px; color: white">{{'loadingSpinnerText'|translate}}.</p>
+</ngx-spinner>

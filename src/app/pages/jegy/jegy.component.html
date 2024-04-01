@@ -18,12 +18,7 @@
   <div id="versenyek" class="menu-item2">
     <a href="versenyek" class="btn btn-outline-warning" (click)="openSpinner()">{{'competitions'|translate}}</a>
   </div>
-  <ngx-spinner
-          bdColor="rgba(51,51,51,0.8)"
-          size="medium"
-          color="#fff"
-          type="ball-scale-multiple"
-        >
-          <p style="font-size: 20px; color: white">{{'loadingSpinnerText'|translate}}.</p>
-        </ngx-spinner>
 </div>
+<ngx-spinner bdColor="rgba(51,51,51,0.8)" size="medium" color="#fff" type="ball-scale-multiple">
+  <p style="font-size: 20px; color: white">{{'loadingSpinnerText'|translate}}.</p>
+</ngx-spinner>

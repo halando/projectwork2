@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import {MatTableModule} from '@angular/material/table';
 import {MatListModule} from '@angular/material/list';
 import {MatTabsModule} from '@angular/material/tabs';
+import { NgxSpinnerService } from 'ngx-spinner';
 export interface Element {
   name: string;
   position: number;
@@ -26,4 +27,11 @@ const ELEMENT_DATA: Element[] = [
 export class TicketComponent {
   displayedColumns: string[] = ['demo-position', 'demo-name', 'demo-discount','demo-price'];
   dataSource = ELEMENT_DATA;
+  constructor(private spinner:NgxSpinnerService){}
+  openSpinner(){
+    this.spinner.show();
+    setTimeout(()=>{
+      this.spinner.hide();
+    }, 60000)
+  }
 }

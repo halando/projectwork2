@@ -62,6 +62,7 @@
   "addressPlaceholder": "Adresse",
   "updateButton": "Aktualisieren",
   "passwordPlaceholder2": "Passwort",
+  "passwordPlaceholder3":"Neues Kennwort",
   "changePasswordButton": "Passwort ändern",
   "register2": "Anmeldung",
   "navbarBrand": "Mhei",
