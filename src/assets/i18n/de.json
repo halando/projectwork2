@@ -1,0 +1,149 @@
+{
+  "horgaszboltok.title": "Angelgeschäfte",
+  "horgaszbolt1.name": "Doppel-Wurm Angelladen und Angelverein",
+  "horgaszbolt1.address": "Budapest, Szabó Ervin u. 31, 1191",
+  "horgaszbolt1.phone": "06202016142",
+  "horgaszbolt1.buttonText": "Anzeigen",
+  "horgaszbolt2.name": "Östlicher Angelshop",
+  "horgaszbolt2.address": "Budapest, Garay u. 20, 1076",
+  "horgaszbolt2.phone": "06306855530",
+  "horgaszbolt2.buttonText": "Anzeigen",
+  "horgaszbolt3.name": "Abenteuer-Angelgeschäft Sephia Bt.",
+  "horgaszbolt3.address": "Budapest, Népszínház u. 18, 1081",
+  "horgaszbolt3.phone": "0613337226",
+  "horgaszbolt3.buttonText": "Anzeigen",
+  
+  "boat": "Boot",
+  "fishscaler": "Fischschupper",
+  "hooktier": "Hakenbinder",
+  "scale": "Skala",
+  "buy": "Kaufen",
+  "individualResultsTitle": "Einzel Ergebnisse",
+  "individualResultsTableHeader": {
+    "position": "Einzel",
+    "name": "Name",
+    "country": "Land",
+    "score": "Ergebnis-Team-Gewicht 2023"
+  },
+  "internationalRankingButton": "Weitere internationale Rangliste",
+  "domesticRankingButton": "Inländische Rangliste",
+
+  "errorAlertTitle": "Fehler beim Laden der Seite",
+  "errorAlertText": "Beim Laden der Seite ist ein Fehler aufgetreten. Bitte überprüfen Sie, ob die Seitenadresse korrekt eingegeben wurde.",
+
+  "selectServicesTitle": "Wählen Sie aus den folgenden Dienstleistungen aus",
+  "tickets": "Tickets",
+  "additional": "Zusätzlich",
+  "fishingShops": "Angelgeschäfte",
+  "fishSpecies": "Fischarten",
+  "events": "Veranstaltungen",
+  "competitions": "Wettbewerbe",
+  "loadingSpinnerText": "Laden...",
+
+  
+    "name": "Name",
+    "phone": "Telefonnummer",
+    "email": "E-Mail",
+    "message": "Nachricht",
+    "sendButton": "Senden"
+ ,
+  "registrationBanner": {
+    "title": "Noch kein Konto?",
+    "linkText": "Klicke hier",
+    "arrowIcon": "bi bi-arrow-right"
+  }
+  ,
+ 
+    "title2": "Umweltschutz",
+    "paragraph1": "Der Umweltschutz beim Fischfang ist entscheidend für die Erhaltung gesunder mariner Ökosysteme. Nachhaltige Praktiken wie Fangbeschränkungen, der Schutz von Lebensräumen und die Reduzierung des Beifangs sind entscheidend, um Überfischung zu verhindern und die biologische Vielfalt zu erhalten. Die Zusammenarbeit zwischen Regierungen, Fischerei, Wissenschaftlern und Gemeinschaften ist für eine effektive Regulierung und Schutzmaßnahmen unerlässlich.",
+    "paragraph2": "Umweltschutz im Fischereiwesen erfordert einen ganzheitlichen Ansatz, der darauf abzielt, das empfindliche Gleichgewicht mariner Ökosysteme zu erhalten, während gleichzeitig die Lebensgrundlage der Küstengemeinden gesichert und die Ernährungssicherheit zukünftiger Generationen gewährleistet wird. Dies erfordert die Umsetzung und Durchsetzung von Politiken und Praktiken, die die schädlichen Auswirkungen der Fischereitätigkeiten auf die Wasserumwelt mildern. Ein Hauptproblem des Umweltschutzes in der Fischerei ist die Überfischung. Überfischung liegt vor, wenn Fischbestände schneller gefangen werden, als sie sich auf natürliche Weise erholen können, was zum Aussterben der Fischbestände führt. Zur Bekämpfung der Überfischung legen Regierungen und internationale Organisationen Fangbeschränkungen und Quoten fest, die die Menge an Fisch regeln können, die in bestimmten Regionen oder von bestimmten Arten gefangen werden kann. Diese Regeln basieren auf wissenschaftlichen Untersuchungen zu Fischbeständen, der Dynamik von Ökosystemen und den möglichen Folgen von Überfischung.",
+  
+
+  
+    "title3": "Anmeldung",
+    "usernamePlaceholder": "Benutzername",
+    "passwordPlaceholder": "Passwort",
+    "registrationLink": "Wenn Sie noch kein Konto haben",
+    "loginButton": "Anmelden"
+  ,
+
+    "title4": "Registrierung",
+    "usernamePlaceholder2": "Benutzername",
+    "firstNamePlaceholder": "Vorname",
+    "lastNamePlaceholder": "Nachname",
+    "emailPlaceholder": "E-Mail-Adresse",
+    "addressPlaceholder": "Adresse",
+    "updateButton": "Aktualisieren",
+    "passwordPlaceholder2": "Passwort",
+    "changePasswordButton": "Passwort ändern",
+    "register2":"Anmeldung",
+  
+  "navbarBrand": "Mhei",
+  "home": "Startseite",
+  "services": "Dienstleistungen",
+  "environment": "Umweltschutz",
+  "contacts": "Kontakte",
+  "profile": "Profil",
+  "adminUsers": "SA-Benutzer",
+  "users": "Benutzer",
+  "logout": "Ausloggen",
+
+  "title": "mhei",
+    "description": "Angeln ist gut.",
+    "links": {
+      "home": "Startseite",
+      "ticket": "Fahrkarte",
+      "contact": "Kontakt",
+      "environment": "Umweltschutz",
+      "login": "Anmelden"
+    },
+    "events2":"Veranstaltungen",
+    "descriptions":"Ihre Beschreibung",
+    "picture":"Bilder",
+    "Link":"Referenz",
+     "location1": "Komárom",
+        "date1": "23. März 2024 (Samstag)“,",
+        "address1": "2900 Komárom, WF Freizeitpark",
+        "description2": "„Angelprogramme in Komárom. Angelwettbewerb zur Saisoneröffnung im WF-Freizeitpark am 23. März 2024 im WF-Freizeitpark. Teilnahmegebühr: 6.500 HUF.",
+        "button1":"Einzelheiten"
+      ,
+      
+        "location2": "Röszke",
+        "date2": "23. März 2024 (Samstag)",
+        "address2": "6758 Röszke, (46.176136 x 20.048933)",
+        "description3": "Angelwettbewerbe, organisiert vom Röszke Sportfishing and Conservation Association.",
+        "button2":"Einzelheiten"
+      ,
+      "location3": "Siófok",
+        "date3": "21. April 2024 (Sonntag) – 27. April 2024 (Samstag)",
+        "address3": "8600 Siófok",
+        "description4": "Einer der größten Karpfenangelwettbewerbe der Welt ist der IBCC International Balaton Carp Fishing Cup. Der Wettbewerb ist ein offener internationaler Teamwettbewerb. Im Jahr 2024 ist der geplante Termin der Veranstaltung: 21.-27. April, Standort Siófok.",
+        "button3":"Einzelheiten",
+      
+        "location4": "Bátonyterenye",
+        "date4": "27. April 2024 (Samstag) – 28. April 2024 (Sonntag)",
+        "address4": "3070 Bátonyterenye, Maconkai-Stausee (47,99437 x 19,849548)",
+
+    
+        "description5": "Ich werde mir den Kalender der Angelwettbewerbe 2024 im Angelparadies Maconka auf der Karte ansehen.",
+        "button4":"Einzelheiten",
+
+        "location5": "Bogács",
+        "date5": "29. August 2024 (Donnerstag)",
+        "address5": "3412 Bogács, Stausee Szoros-völgy (47,914585 x 20,518908)",
+        "description6": "Fisch hoch!“ Angelwettbewerb und nationales Angeltreffen in Bogács, am Stausee Szoros-völgy am 29. August 2024. Der Kurort heißt nicht nur Urlauber und Erholungssuchende willkommen, auch Angelbegeisterte finden hier hervorragende Programme. Schnappen Sie sich Ihre Angelrute und besuchen Sie Bogács für dieses hervorragende Angelevent zum Ende des Sommers!",
+        "button5":"Einzelheiten",
+        
+   
+        "location6": "Székesfehérvár",
+        "date6": "20. April 2024 (Samstag)",
+        "address6": " 8000 Székesfehérvár, Palotaváros-Seen",
+        "description7": "Im Jahr 2024 erwartet die beliebte gastronomische Veranstaltung der Stadt, das Fehérvárer Fischfestival, zum neunten Mal Gäste an den Palotavárosi-Seen. Die Veranstaltung, die einen Kochwettbewerb, Bühnen- und Familienprogramme bietet, findet am Samstag, 20. April 2024, statt. Der Star des Tages wird die Envious Axillary Gland sein.",
+        "button6":"Einzelheiten",
+
+        "location7": "Hortobágyi-halastó",
+        "description8": "Professionell geführte Wanderung zur Feldvogelbeobachtung auf dem Naturlehrpfad Hortobágy-Halastavi. Während der Tour erfahren Sie mehr über die Geschichte der Region, ihre Besonderheiten und ihre wichtigen und charakteristischen Pflanzen- und Tierarten. Auf dem geführten Rundgang können Besucher die wichtigsten Werte der Gegend, die Tierwelt der Fischteiche, kennenlernen. Teil der Tour ist die Vogelbeobachtung mit dem Fernglas, bei der die Teilnehmer einen Einblick in die Bewegungen des Frühlingsvogelzuges erhalten können. Die Tour ist ca. 10 km lang. Es werden wettergerechte Lagenkleidung und ein Fernglas empfohlen",
+        "button7":"Einzelheiten"
+
+  }
+  

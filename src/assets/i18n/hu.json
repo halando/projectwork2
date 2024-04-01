@@ -1,0 +1,145 @@
+{
+  "horgaszboltok.title": "Horgászboltok",
+  "horgaszbolt1.name": "Dupla Kukac Horgászbolt és Horgászegyesület",
+  "horgaszbolt1.address": "Budapest, Szabó Ervin u. 31, 1191",
+  "horgaszbolt1.phone": "06202016142",
+  "horgaszbolt1.buttonText": "Megnézem",
+  "horgaszbolt2.name": "Keleti Horgászbolt",
+  "horgaszbolt2.address": "Budapest, Garay u. 20, 1076",
+  "horgaszbolt2.phone": "06306855530",
+  "horgaszbolt2.buttonText": "Megnézem",
+  "horgaszbolt3.name": "Kaland Horgászbolt Sephia Bt.",
+  "horgaszbolt3.address": "Budapest, Népszínház u. 18, 1081",
+  "horgaszbolt3.phone": "0613337226",
+  "horgaszbolt3.buttonText": "Megnézem",
+
+  "boat": "Csónak",
+  "fishscaler": "Halpikkelyező",
+  "hooktier": "Húrokkötő",
+  "scale": "Mérleg",
+  "buy": "Megveszem",
+  "individualResultsTitle": "Egyéni Eredmények",
+  "individualResultsTableHeader": {
+    "position": "Egyéni",
+    "name": "Név",
+    "country": "Ország",
+    "score": "Eredmény-Csapat-Súly 2023"
+  },
+  "internationalRankingButton": "További Nemzetközi Ranglista",
+  "domesticRankingButton": "Belföldi Ranglista",
+
+  "errorAlertTitle": "Hiba történt az oldal betöltésekor",
+  "errorAlertText": "Hiba történt az oldal betöltése során, kérjük ellenőrizze, hogy helyesen adta meg az oldal címét.",
+
+  "selectServicesTitle": "Válasszon az alábbi szolgáltatások közül",
+  "tickets": "Jegyek",
+  "additional": "Kiegészítők",
+  "fishingShops": "Horgászboltok",
+  "fishSpecies": "Halfajok",
+  "events": "Események",
+  "competitions": "Versenyek",
+  "loadingSpinnerText": "Tölti Mölti...",
+
+ 
+    "name": "Név",
+    "phone": "Telefonszám",
+    "email": "Email",
+    "message": "Üzenet",
+    "sendButton": "Küldés"
+ ,
+  "registrationBanner": {
+    "title": "Még nincs regisztrációd?",
+    "linkText": "Katt ide",
+    "arrowIcon": "bi bi-arrow-right"
+  },
+
+ 
+    "title2": "Környezetvédelem",
+    "paragraph1": "A halászat környezetvédelme létfontosságú az egészséges tengeri ökoszisztémák fenntartásához. Az olyan fenntartható gyakorlatok, mint a fogási korlátozások, az élőhelyek védelme és a járulékos fogások csökkentése kulcsfontosságúak a túlhalászás megelőzése és a biológiai sokféleség megőrzése szempontjából. A kormányok, a halászat, a tudósok és a közösségek közötti együttműködés elengedhetetlen a hatékony szabályozáshoz és a védelmi erőfeszítésekhez.",
+    "paragraph2": "A környezetvédelem a halászat tekintetében egy sokoldalú megközelítést foglal magában, amelynek célja a tengeri ökoszisztémák kényes egyensúlyának megőrzése, miközben fenntartja a part menti közösségek megélhetését és biztosítja a jövő generációk élelmezésbiztonságát. E törekvés lényege, hogy olyan szakpolitikákat és gyakorlatokat kell végrehajtani és érvényesíteni, amelyek enyhítik a halászati tevékenységek vízi környezetre gyakorolt káros hatásait. A halászati ágazaton belül a környezetvédelem egyik fő problémája a túlhalászás. Túlhalászásról akkor beszélünk, ha a halállományokat gyorsabban halásszák ki, mint ahogy azok természetes úton képesek pótlódni, ami a halállományok kimerüléséhez vezet. A túlhalászás elleni küzdelem érdekében a kormányok és a nemzetközi szervezetek fogási korlátozásokat és kvótákat állapítanak meg, amelyek szabályozzák az egyes régiókból vagy fajokból kifogható halak mennyiségét. Ezeket a szabályokat a halállományokra, az ökoszisztéma dinamikájára és a túlhalászás lehetséges következményeire vonatkozó tudományos kutatások alapozzák meg."
+  ,
+  
+    "title3": "Bejelentkezés",
+    "usernamePlaceholder": "Felhasználónév",
+    "passwordPlaceholder": "Jelszó",
+    "registrationLink": "Ha még nincs regisztrációd",
+    "loginButton": "Bejelentkezés",
+  
+  
+    "title4": "Regisztráció",
+    "usernamePlaceholder2": "Felhasználónév",
+    "firstNamePlaceholder": "Keresztnév",
+    "lastNamePlaceholder": "Vezetéknév",
+    "emailPlaceholder": "Email cím",
+    "addressPlaceholder": "Cím",
+    "updateButton": "Frissítés",
+    "passwordPlaceholder2": "Jelszó",
+    "changePasswordButton": "Jelszó módosítása",
+    "register2":"Regisztráció",
+  
+  "navbarBrand": "Mhei",
+  "home": "Kezdőlap",
+  "services": "Szolgáltatások",
+  "environment": "Környezetvédelem",
+  "contacts": "Kapcsolatok",
+  "profile": "Profil",
+  "adminUsers": "SAFelhasználók",
+  "users": "Felhasználók",
+  "logout": "Kilépés",
+
+  "title": "mhei",
+  "description": "A horgászat jó.",
+  "links": {
+    "home": "Kezdőlap",
+    "ticket": "Jegy",
+    "contact": "Kapcsolat",
+    "environment": "Környezetvédelem",
+    "login": "Bejelentkezés"
+  },
+  "events2":"Események",
+    "descriptions":"Leírásuk",
+    "picture":"Képek",
+    "Link":"Hivatkozás",
+  "location1": "Komárom",
+        "date1": "2024. március 23. (szombat)",
+        "address1": "2900 Komárom, WF Szabadidőpark",
+        "description2": "Komáromi horgász programok. Évadnyitó horgászverseny a WF Szabadidőpark horgásztaván 2024.március 23-án a WF Szabadidőparkban. Nevezési díj: 6.500,-Ft.",
+        "button1":"Részletek"
+      ,
+      
+        "location2": "Röszke",
+        "date2": "2024. március 23. (szombat)",
+        "address2": "6758 Röszke, (46.176136 x 20.048933)",
+        "description3": "A Röszkei Sporthorgász és Természetvédő Egyesület által szervezett horgászversenyek.",
+        "button2":"Részletek",
+
+        "location3": "Siófok",
+        "date3": "2024. április 21. (vasárnap) - 2024. április 27. (szombat)",
+        "address3": "8600 Siófok",
+        "description4": "A világ egyik legnagyobb pontyfogó versenye az IBCC Nemzetközi Balatoni Pontyfogó Kupa. A verseny nyílt nemzetközi csapatverseny. 2024-ben a rendezvény tervezett időpontja: április 21-27, helyszíne Siófok.",
+        "button3":"Részletek"
+      ,
+        "location4": "Bátonyterenye",
+        "date4": "2024. április 27. (szombat) - 2024. április 28. (vasárnap)",
+        "address4": "3070 Bátonyterenye, Maconkai-víztározó (47.99437 x 19.849548)",
+        "description5": "Megnézem a térképen 2024. évi horgászversenyek eseménynaptára a maconkai horgászparadicsomban.",
+        "button4":"Részletek",
+
+        "location5": "Bogács",
+        "date5": "2024. augusztus 29. (csütörtök)",
+        "address5": "3412 Bogács, Szoros-völgyi víztározó (47.914585 x 20.518908)",
+        "description6": "„Halra Fel!” horgászverseny és országos horgásztalálkozó Bogácson, a Szoros-völgyi víztározónál 2024. augusztus 29-én. A fürdőváros nemcsak az üdülőket és gyógyulni vágyókat várja, de a horgászat szerelmesei is kiváló programokat találnak itt. Ragadja meg horgászbotját és látogasson el Bogácsra, erre a kiváló nyárzáró horgászati rendezvényre!",
+        "button5":"Részletek",
+
+        "location6": "Székesfehérvár",
+        "date6": "2024. április 20. (szombat)",
+        "address6": "8000 Székesfehérvár, Palotavárosi tavak",
+        "description7": "2024-ben kilencedszer várja a vendégeket a Palotavárosi tavaknál a város népszerű gasztronómiai eseménye, a Fehérvári Halünnep. A főzőversenyt, színpadi és családi programokat kínáló esemény 2024. április 20-án, szombaton kerül megrendezésre. A nap sztárfellépője az Irigy Hónaljmirigy lesz.",
+        "button6":"Részletek",
+
+        "location7": "Hortobágyi-halastó",
+        "description8": "Szakvezetéses terepmadarász gyalogtúra a Hortobágy-halastavi tanösvényen. A túra során megismerkedhet a terület történetével, sajátosságaival, fontos és jellegzetes növény-, és állatfajaival. A kilátogatók a szakvezetéses gyalogtúrán megismerkedhetnek a terület legfontosabb értékeivel, a halastavak élővilágával. A túra részét képezi a távcsöves madármegfigyelés is, melynek során a résztvevők bepillantást nyerhetnek a tavaszi madárvonulás mozgalmába. A túra hozzávetőlegesen 10 km hosszú. Időjárásnak megfelelő réteges öltözet, kézitávcső ajánlott.",
+        "button7":"Részletek"
+}
+  
+  

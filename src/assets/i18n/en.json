@@ -1,0 +1,149 @@
+{
+  "horgaszboltok.title": "Fishing Stores",
+  "horgaszbolt1.name": "Double Worm Fishing Store and Fishing Association",
+  "horgaszbolt1.address": "Budapest, Szabó Ervin u. 31, 1191",
+  "horgaszbolt1.phone": "06202016142",
+  "horgaszbolt1.buttonText": "View",
+  "horgaszbolt2.name": "Eastern Fishing Store",
+  "horgaszbolt2.address": "Budapest, Garay u. 20, 1076",
+  "horgaszbolt2.phone": "06306855530",
+  "horgaszbolt2.buttonText": "View",
+  "horgaszbolt3.name": "Adventure Fishing Store Sephia Bt.",
+  "horgaszbolt3.address": "Budapest, Népszínház u. 18, 1081",
+  "horgaszbolt3.phone": "0613337226",
+  "horgaszbolt3.buttonText": "View",
+  
+  "boat": "Boat",
+  "fishscaler": "Fish Scaler",
+  "hooktier": "Hook Tier",
+  "scale": "Scale",
+  "buy": "Buy",
+  
+  "individualResultsTitle": "Individual Results",
+  "individualResultsTableHeader": {
+    "position": "Individual",
+    "name": "Name",
+    "country": "Country",
+    "score": "Result-Team-Weight 2023"
+  },
+  "internationalRankingButton": "More International Rankings",
+  "domesticRankingButton": "Domestic Ranking",
+  
+  "errorAlertTitle": "Error occurred while loading the page",
+  "errorAlertText": "An error occurred while loading the page, please check if you have entered the page address correctly.",
+  "selectServicesTitle": "Choose from the following services",
+  "tickets": "Tickets",
+  "additional": "Additional",
+  "fishingShops": "Fishing Shops",
+  "fishSpecies": "Fish Species",
+  "events": "Events",
+  "competitions": "Competitions",
+  "loadingSpinnerText": "Loading...",
+
+  
+    "name": "Name",
+    "phone": "Phone Number",
+    "email": "Email",
+    "message": "Message",
+    "sendButton": "Send"
+  ,
+
+    "title2": "Environmental Protection",
+    "paragraph1": "Environmental protection in fishing is crucial for maintaining healthy marine ecosystems. Sustainable practices such as catch limitations, habitat preservation, and reducing bycatch are key to preventing overfishing and preserving biodiversity. Collaboration among governments, fisheries, scientists, and communities is essential for effective regulation and conservation efforts.",
+    "paragraph2": "Environmental protection in fisheries involves a multifaceted approach aimed at preserving the delicate balance of marine ecosystems while maintaining the livelihoods of coastal communities and ensuring food security for future generations. This entails implementing and enforcing policies and practices that mitigate the adverse impacts of fishing activities on the aquatic environment. One of the primary issues of environmental conservation in fisheries is overfishing. Overfishing occurs when fish stocks are depleted faster than they can naturally replenish, leading to the depletion of fish populations. To combat overfishing, governments and international organizations establish catch limitations and quotas to regulate the amount of fish that can be caught from specific regions or species. These regulations are informed by scientific research on fish stocks, ecosystem dynamics, and the potential consequences of overfishing."
+  ,
+
+  "registrationBanner": {
+    "title": "Don't have an account yet?",
+    "linkText": "Click here",
+    "arrowIcon": "bi bi-arrow-right"
+  },
+  
+    "title3": "Login",
+    "usernamePlaceholder": "Username",
+    "passwordPlaceholder": "Password",
+    "registrationLink": "If you don't have an account yet",
+    "loginButton": "Login"
+  ,
+  
+    "title4": "Registration",
+    "usernamePlaceholder2": "Username",
+    "firstNamePlaceholder": "First Name",
+    "lastNamePlaceholder": "Last Name",
+    "emailPlaceholder": "Email Address",
+    "addressPlaceholder": "Address",
+    "updateButton": "Update",
+    "passwordPlaceholder2": "Password",
+    "changePasswordButton": "Change Password",
+    "register2":"Register",
+ 
+
+  "navbarBrand": "Mhei",
+  "home": "Home",
+  "services": "Services",
+  "environment": "Environments",
+  "contacts": "Contacts",
+  "profile": "Profil",
+  "adminUsers": "SAUsers",
+  "users": "Users",
+  "logout": "Logout",
+  "login": "Login",
+  "register": "Register",
+  
+    "title": "mhei",
+    "description": "Fishing is good.",
+    "links": {
+      "home": "Home",
+      "ticket": "Ticket",
+      "contact": "Contact",
+      "environment": "Environment",
+      "login": "Login"
+    
+    },
+    "events2":"Events",
+    "descriptions":"Descriptions",
+    "picture":"Pictures",
+    "Link":"Link",
+    "location1": "Komárom",
+        "date1": "March 23, 2024 (Saturday)",
+        "address1": "2900 Komárom, WF Leisure Park",
+        "description2": "Fishing programs in Komárom. Opening fishing competition of the WF Leisure Park on March 23, 2024 in the WF Leisure Park. Registration fee: HUF 6,500.",
+        "button1":"Details"
+      ,
+      
+        "location2": "Röszke",
+        "date2": "March 23, 2024 (Saturday)",
+        "address2": "6758 Röszke, (46.176136 x 20.048933)",
+        "description3": "Fishing competitions organized by the Röszke Sportfishing and Conservation Association.",
+        "button2":"Details",
+
+
+      "location3": "Siófok",
+        "date3": "April 21, 2024 (Sunday) - April 27, 2024 (Saturday)",
+        "address3": "8600 Siófok",
+        "description4": "One of the biggest carp fishing competitions in the world is the IBCC International Balaton Carp Fishing Cup. The competition is an open international team competition. In 2024, the planned date of the event: April 21-27, location Siófok.",
+        "button3":"Details",
+      
+      
+        "location4": "Bátonyterenye",
+        "date4": "April 27, 2024 (Saturday) - April 28, 2024 (Sunday)",
+        "address4": "3070 Bátonyterenye, Maconkai Reservoir (47.99437 x 19.849548)",
+        "description5": "I will look at the 2024 calendar of fishing competitions in the fishing paradise of Maconka on the map.",
+        "button4":"Details",
+
+        "location5": "Bogács",
+        "date5": "August 29, 2024 (Thursday)",
+        "address5": "3412 Bogács, Szoros-völgy reservoir (47.914585 x 20.518908)",
+        "description6": "Fish Up!” fishing competition and national fishing meeting in Bogács, at the Szoros-völgy reservoir on August 29, 2024. The spa town not only welcomes vacationers and those wishing to heal, but also fishing enthusiasts will find excellent programs here. Grab your fishing rod and visit Bogács for this excellent end-of-summer fishing event!",
+        "button":"Details",
+
+        "location6": "Székesfehérvár",
+        "date6": "April 20, 2024 (Saturday)",
+        "address6": "8000 Székesfehérvár, Palotaváros lakes",
+        "description7": "In 2024, the city's popular gastronomic event, the Fehérvár Fish Festival, awaits guests at the Palotavárosi lakes for the ninth time. The event, which offers a cooking competition, stage and family programs, will be held on Saturday, April 20, 2024. The star performer of the day will be the Envious Axillary Gland.",
+        "button6":"Details",
+
+        "location7": "Hortobágyi-halastó",
+        "description8": "Professionally guided field birding walking tour on the Hortobágy-Halastavi nature trail. During the tour, you can learn about the history of the area, its characteristics, and its important and characteristic plant and animal species. Visitors can learn about the most important values ​​of the area, the wildlife of the fish ponds, on the guided walking tour. Bird watching with binoculars is part of the tour, during which the participants can get a glimpse of the movements of the spring bird migration. The tour is approximately 10 km long. Weather-appropriate layered clothing and binoculars are recommended.",
+        "button7":"Details"
+  }
