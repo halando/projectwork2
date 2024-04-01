@@ -75,13 +75,13 @@
   "logout": "Ausloggen",
   "title": "mhei",
   "description": "Angeln ist gut.",
-  "links": {
-    "home": "Startseite",
+  
+    "home2": "Startseite",
     "ticket": "Fahrkarte",
     "contact": "Kontakt",
-    "environment": "Umweltschutz",
-    "login": "Anmelden"
-  },
+    "environment2": "Umweltschutz",
+    "login": "Anmelden",
+  
   "events2": "Veranstaltungen",
   "descriptions": "Ihre Beschreibung",
   "picture": "Bilder",

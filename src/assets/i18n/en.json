@@ -73,17 +73,16 @@
   "adminUsers": "SAUsers",
   "users": "Users",
   "logout": "Logout",
-  "login": "Login",
   "register": "Register",
   "title": "mhei",
   "description": "Fishing is good.",
-  "links": {
-    "home": "Home",
+  
+    "home2": "Home",
     "ticket": "Ticket",
     "contact": "Contact",
-    "environment": "Environment",
-    "login": "Login"
-  },
+    "environment2": "Environment",
+    "login": "Login",
+  
   "events2": "Events",
   "descriptions": "Descriptions",
   "picture": "Pictures",

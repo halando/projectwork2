@@ -76,13 +76,13 @@
   "logout": "Kilépés",
   "title": "mhei",
   "description": "A horgászat jó.",
-  "links": {
-    "home": "Kezdőlap",
+  
+    "home2": "Kezdőlap",
     "ticket": "Jegy",
     "contact": "Kapcsolat",
-    "environment": "Környezetvédelem",
-    "login": "Bejelentkezés"
-  },
+    "environment2": "Környezetvédelem",
+    "login": "Bejelentkezés",
+  
   "events2": "Események",
   "descriptions": "Leírásuk",
   "picture": "Képek",
