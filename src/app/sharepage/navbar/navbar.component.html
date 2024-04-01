@@ -19,16 +19,16 @@
             <a class="nav-link" routerLink="kapcsolat" routerLinkActive="active-link">{{'contacts'|translate}}</a>
           </li>
           <li  *ngIf="currentUser" class="nav-item">
-            <a class="nav-link" routerLink="profile" routerLinkActive="active-link">Profil</a>
+            <a class="nav-link" routerLink="profile" routerLinkActive="active-link">{{'profile'|translate}}</a>
           </li>
           <li *ngIf="currentUser?.claims.includes('SAdmin')" class="nav-item">
-            <a class="nav-link"routerLink="/user-list">SAFelhasználók</a>
+            <a class="nav-link"routerLink="/user-list">{{'adminUsers'|translate}}</a>
           </li>
           <li  class="nav-item">
             <a class="nav-link"routerLink="user-list" routerLinkActive="active-link">{{'users'|translate}}</a>
           </li>
           <li *ngIf="currentUser" class="nav-item">
-            <a class="nav-link" (click)="logout()">Kilépés</a>
+            <a class="nav-link" (click)="logout()">{{'logout' |translate}}</a>
           </li>
           <li class="nav-item">
             <select class="form-select" (change)="ChangeLanguage($event)" name="" id="">

@@ -8,7 +8,7 @@ import { LoginComponent } from './pages/login/login.component';
 import { RegisterComponent } from './pages/register/register.component';
 import { ProfileComponent } from './pages/profile/profile.component';
 import { UserListComponent } from './pages/user-list/user-list.component';
-import { sadminGuard } from './sadmin.guard';
+import { sadminGuard } from '../app/sadmin.guard';
 
 import { TicketComponent } from './additional-pages/ticket/ticket.component';
 import { VersenyekComponent } from './additional-pages/versenyek/versenyek.component';

@@ -1,17 +1,27 @@
 .hero {
   width: 100%;
-  height: 100vh;
+  height: 750vh;
   background-color: orange;
   background-position: center;
   background-size: cover;
-  display:flex;
   align-items: center;
+  display: flex;
+  border: 5px solid black;
 }
-#img1{
-  width: 12000px;
-  height: 400px;
-  margin-top: -600px;
+img{
+  float: right;
+  width: 250px;
+  height: 200px;
+  border-radius: 20px;
+  border: 5px solid black;
 }
-.card-group{
-  margin-top: 150px;
+td{
+  border: 2px solid black;
+  font-weight: bold;
+  background-color: aqua;
+}
+th{
+  border: 2px solid black;
+  text-align: center;
+  background-color: yellow;
 }
